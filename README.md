@@ -1,16 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Gregory%20Cardoso&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Especialista%20em%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=Gregory%20Cardoso&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Especialista%20em%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Especialista+em+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacking+%7C+Pentest+%7C+SOC+%7C+CSIRT;Full+Stack+Developer+%F0%9F%92%BB;Sempre+em+busca+de+novos+desafios+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://github.com/gregscardoso"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:gregoryconsultoriati@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gregory-cardoso-gravinez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gregorycardoso.com.br"><img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/gregscardoso">GitHub</a> ·
+  <a href="mailto:gregoryconsultoriati@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/gregory-cardoso-gravinez/">LinkedIn</a> ·
+  <a href="https://gregorycardoso.com.br">Site</a>
 </p>
 
 </div>
@@ -83,10 +83,10 @@ Especialista em Segurança da Informação, apaixonado por **Ethical Hacking** e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gregscardoso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com?user=gregscardoso&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gregscardoso&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.demolab.com?user=gregscardoso&theme=dark&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregscardoso&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregscardoso&layout=compact&theme=dark&hide_border=true" width="49%" />
 
 </div>
 
@@ -97,13 +97,13 @@ Especialista em Segurança da Informação, apaixonado por **Ethical Hacking** e
 <div align="center">
 
 <a href="https://github.com/gregscardoso/fisiolife">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gregscardoso&repo=fisiolife&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gregscardoso&repo=fisiolife&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/gregscardoso/sec-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gregscardoso&repo=sec-dashboard&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gregscardoso&repo=sec-dashboard&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/gregscardoso/lifeosprofessional">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gregscardoso&repo=lifeosprofessional&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gregscardoso&repo=lifeosprofessional&theme=dark&hide_border=true" />
 </a>
 
 </div>
@@ -113,13 +113,13 @@ Especialista em Segurança da Informação, apaixonado por **Ethical Hacking** e
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:gregoryconsultoriati@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gregory-cardoso-gravinez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gregorycardoso.com.br"><img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:gregoryconsultoriati@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/gregory-cardoso-gravinez/">LinkedIn</a> ·
+  <a href="https://gregorycardoso.com.br">Site</a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gregscardoso&label=Visualizações+do+perfil&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=gregscardoso&label=Visualizações+do+perfil&color=0d1117&style=flat" />
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=100&section=footer)
